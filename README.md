@@ -1,5 +1,4 @@
 # Finding-Factorial-using-Thread
-Python program to calculate the factorial of a given integer. Calculate the factorial using recursion and call the factorial function using thread
 
 What is Thread In Python?
 A thread is the execution of code in a Python process. 
